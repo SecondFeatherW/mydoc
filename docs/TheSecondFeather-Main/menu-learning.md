@@ -1,6 +1,6 @@
 ---
 id: 2
-title: 1.总目录MENU
+title: 1.2.总目录MENU
 sidebar_position: 1
 ---
 

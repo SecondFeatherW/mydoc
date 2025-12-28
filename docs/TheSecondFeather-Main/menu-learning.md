@@ -1,6 +1,6 @@
 ---
 id: 1
-title: 1.目录
+title: 1.MENU
 sidebar_position: 1
 ---
 

@@ -1,6 +1,6 @@
 ---
 id: 1
-title: 1.Introduction THIS Website For Chinese learner 给中国学者的信
+title: 1.1.Introduction THIS Website For Chinese learner 给中国学者的信
 sidebar_position: 1
 ---
 
